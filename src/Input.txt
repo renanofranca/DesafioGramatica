@@ -1,0 +1,6 @@
+Input: F
+Regra1Saida: F+FF+
+Regra2: -F-FF
+Repeticao: 8
+Regra1Entrada: F
+Regra2Entrada: f
